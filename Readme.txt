@@ -8,6 +8,8 @@ public class JavaTest
   public static void main(String[] args)
   {
     System.out.print("What's Up GitHub?");
-    System.out.print("\nWhere is the compile button in here?");
+    System.out.print("\nIs there a compile button in here?");
+    System.out.print("\nNow I edit");
+    System.out.print("\nJust because I wanted to see green and red colored lines");
   }
 }
